@@ -10,7 +10,7 @@
 
 Matching game is a memory game that has 16 cards that are shuffled randomly and your job is to find all the matching cards
 
-To play the gane, open `index.html` file.
+To play the game, open `index.html` file.
 
 ## Code Dependencies
 
